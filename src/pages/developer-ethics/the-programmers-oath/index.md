@@ -17,7 +17,7 @@ The Programmers Oath is a an oath created by Robert C. Martin, that are the guid
 >8. I will produce estimates that are honest both in magnitude and precision. I will not make promises without certainty.
 >9. I will never stop learning and improving my craft.
 
-[A web series on the freeCodeCamp channel](https://www.youtube.com/watch?v=36NgPu9OyRM) breaks down what the oath means, and how to follow the oath.
+<a href='https://www.youtube.com/watch?v=36NgPu9OyRM' target='_blank' rel='nofollow'>A web series on the freeCodeCamp channel</a> breaks down what the oath means, and how to follow the oath.
 
 ### Promise 1
 >1. I will not produce harmful code.
@@ -89,6 +89,11 @@ When someone says to you "I need this done by Tuesday," and your not sure if you
 > 9. I will never stop learning and improving my craft.
 
 This doesn't need much explanation. You should always try to learn new languages, new frameworks, new techniques, new disiplines, new processes. You need to apply what you learn then, to constantly impove your craft. 
+
+### Promise 10
+>10. I will only produce code which conforms to ethics.
+
+Programmers should work to develop computer systems that can reduce negative consequences to society, such as threats to safety and health, and that can make everyday activities and work easier. It is “an obligation to develop to high standards".
 
 ### <b>In conclusion:</b>
 Perhaps there ought to be more promises that we should make, in fact, many of these promises <b>might not be even practical</b>. However, all these promises feel to be important somehow, and reasonable as an oath that a professional programmer would take.
